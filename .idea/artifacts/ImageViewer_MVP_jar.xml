@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageViewer_MVP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageViewer_MVP_jar</output-path>
+    <root id="archive" name="ImageViewer_MVP.jar">
+      <element id="module-output" name="ImageViewer_MVP" />
+    </root>
+  </artifact>
+</component>
